@@ -1,9 +1,8 @@
-﻿# Scaffold privacy policy
+﻿# Scaffold legal pages
 
-Public privacy policy for the Scaffold app.
+Public GitHub Pages for **Scaffold** (privacy + terms). No app source.
 
-**Live (GitHub Pages):** https://telchar12.github.io/scaffold-privacy/
+- Privacy: https://telchar12.github.io/scaffold-privacy/
+- Terms: https://telchar12.github.io/scaffold-privacy/terms-of-service.html
 
-Canonical text for the private app repo lives in `assets/privacy_policy.md` (Open-Tracker). Update this HTML when that file changes.
-
-This repo is intentionally public and contains **no app source code**.
+Source of truth for copy lives in the private app repo (`assets/*.md`). Keep these HTML files in sync when legal text changes.
